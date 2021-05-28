@@ -1,0 +1,615 @@
+@media( max-width: 300px),( min-width: 360px){
+  
+    .card-container{
+        justify-content: center;   
+    }
+
+ 
+    .card{
+    padding: 0px 0 100px 0;
+    
+    }
+    
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        
+    }
+    
+    .logo{
+        margin: 50px 0 0 30px;
+    
+    }
+    
+    .par{
+        font-size: 15px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:0 auto;
+        width: 310px;
+        line-height: 2.5em;
+    }
+
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: xx-large;
+    }
+    
+    .btn{
+        position: relative;
+        top:35px;
+        background:white;
+       text-align: center;
+       padding: 15px 10px 15px 10px;
+       text-transform: capitalize;
+        width:150px;
+        height: 20px;
+          margin:0px auto;
+        font-size: 20px;
+        border-radius: 40px 40px 40px 40px;
+        text-align: center;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+}
+
+
+
+
+
+@media ( min-width: 375px ) {
+    
+    
+    .card-container{
+        justify-content: center;   
+    }
+
+ 
+    .card{
+    padding: 0px 0 100px 0;
+    
+    }
+    
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        
+    }
+    
+    .logo{
+        margin: 50px 0 0 30px;
+    
+    }
+    
+    .par{
+        font-size: 15px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:0 auto;
+        width: 310px;
+        line-height: 2.5em;
+    }
+
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: xx-large;
+    }
+    
+    .btn{
+        position: relative;
+        top:35px;
+        background:white;
+       text-align: center;
+       padding: 15px 10px 15px 10px;
+       text-transform: capitalize;
+        width:150px;
+        height: 20px;
+          margin:0px auto;
+        font-size: 20px;
+        border-radius: 40px 40px 40px 40px;
+        text-align: center;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+}
+
+
+
+@media ( min-width: 414px ) {
+    
+    
+    .card-container{
+        justify-content: center;   
+    }
+
+ 
+    .card{
+    padding: 0px 0 100px 0;
+    
+    }
+    
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        
+    }
+    
+    .logo{
+        margin: 50px 0 0 30px;
+    
+    }
+    
+    .par{
+        font-size: 17px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:0 auto;
+        width: 300px;
+        line-height: 2.5em;
+    }
+
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: xx-large;
+    }
+    
+    .btn{
+        position: relative;
+        top:50px;
+        background:white;
+       text-align: center;
+       padding: 15px 10px 15px 10px;
+       text-transform: capitalize;
+        width:150px;
+        height: 20px;
+          margin:0px auto;
+        font-size: 20px;
+        border-radius: 40px 40px 40px 40px;
+        text-align: center;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+}
+
+@media ( min-width: 600px ) {
+    
+    
+    .card-container{
+        justify-content: center;   
+    }
+
+ 
+    .card{
+    padding: 0px 0 100px 0;
+    
+    }
+    
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        
+    }
+    
+    .logo{
+        margin: 80px 0 0 60px;
+        width: 80px;
+    
+    }
+    
+    .par{
+        font-size: 20px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:0 auto;
+        width: 450px;
+        line-height: 2.5em;
+    }
+
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 75px;
+    }
+    
+    .btn{
+        position: relative;
+        top:50px;
+        background:white;
+       text-align: center;
+       padding: 15px 10px 15px 10px;
+       text-transform: capitalize;
+        width:150px;
+        height: 20px;
+          margin:0px auto;
+        font-size: 20px;
+        border-radius: 40px 40px 40px 40px;
+        text-align: center;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+}
+
+
+@media ( min-width: 800px ) {
+    
+    
+    .card-container{
+        justify-content: center;   
+    }
+
+ 
+    .card{
+    padding: 0px 0 100px 0;
+    
+    }
+    
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        
+    }
+    
+    .logo{
+        width:140px;
+        margin: 100px 0 0 100px;
+    
+    }
+    
+    .par{
+        font-size: 30px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:0 auto;
+        width: 600px;
+        line-height: 2.5em;
+    }
+
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: xxx-large;
+    }
+    
+    .btn{
+        position: relative;
+        top:50px;
+        background:white;
+       text-align: center;
+       padding: 15px 10px 15px 10px;
+       text-transform: capitalize;
+        width:350px;
+        height: 60px;
+          margin:0px auto;
+        font-size: 40px;
+        border-radius: 40px 40px 40px 40px;
+        text-align: center;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+}
+
+
+@media ( min-width: 896px ) {
+    
+    
+    .card-container{
+        justify-content: center;   
+    }
+
+ 
+    .card{
+    padding: 0px 0 100px 0;
+    
+    }
+    
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        
+    }
+    
+    .logo{
+        width:140px;
+        margin: 100px 0 0 100px;
+    
+    }
+    
+    .par{
+        font-size: 30px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:0 auto;
+        width: 600px;
+        line-height: 2.5em;
+    }
+
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: xxx-large;
+    }
+    
+    .btn{
+        position: relative;
+        top:50px;
+        background:white;
+       text-align: center;
+       padding: 15px 10px 15px 10px;
+       text-transform: capitalize;
+        width:350px;
+        height: 60px;
+          margin:0px auto;
+        font-size: 40px;
+        border-radius: 40px 40px 40px 40px;
+        text-align: center;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+}
+
+@media( min-width: 1200px)  {
+
+
+    .container .card-container{
+    
+        display:grid;
+        grid-template-columns: repeat(3,260px);
+        grid-template-rows: repeat(2,260px); 
+        position:relative;
+        top: 4em;
+    }
+    
+    .card-container{
+    justify-content: center;   
+    }
+    
+    .logo{
+        margin: 50px 0 0 30px;
+        width: 60px;
+    
+    }
+    
+    .card-1{
+        background:hsl(31, 77%, 52%);
+        grid-row: 1/-1;
+    
+    }
+    .card-2{
+        background:hsl(184, 100%, 22%); 
+        grid-row: 1/-1;
+    }
+    .card-3{
+        background:hsl(179, 100%, 13%);
+        grid-row: 1/-1;
+    }
+    .title{
+        font-family: 'Big Shoulders Display', cursive;
+        color:hsla(0, 0%, 100%, 0.75);
+        text-transform: uppercase;
+        margin:30px 0 0 30px;
+        font-size: x-large;
+    }
+    .par{
+        font-size: 15px;
+        font-family: 'Lexend Deca', sans-serif;
+        color:hsla(0, 0%, 100%, 0.75);
+        margin:25px 0 0 30px;
+        width: 85%;
+        line-height: 2.5em;
+    }
+    .btn{
+        background:white;
+       text-align: center;
+       padding: 8px 10px 8px 10px;
+       text-transform: capitalize;
+        width:140px;
+        height: 30px;
+        margin:0px 0 0px 40px;
+        font-size: 20px;
+        border-radius: 40px 40px 40px 40px;
+    }
+    
+    .btn-1{
+        color:hsl(31, 77%, 52%);
+    }
+    .btn-2{
+        color:hsl(184, 100%, 22%); 
+    }
+    .btn-3{
+        color:hsl(179, 100%, 13%);
+    }
+      }
+
+
+
+
+/* -------------------desk top ------------------------ */
+
+  @media( min-width: 1440px)  {
+
+
+.container .card-container{
+
+    display:grid;
+    grid-template-columns: repeat(3,260px);
+    grid-template-rows: repeat(2,260px); 
+    position:relative;
+    top: 4em;
+}
+
+.card-container{
+justify-content: center;   
+}
+
+.logo{
+    margin: 50px 0 0 30px;
+
+}
+
+.card-1{
+    background:hsl(31, 77%, 52%);
+    grid-row: 1/-1;
+
+}
+.card-2{
+    background:hsl(184, 100%, 22%); 
+    grid-row: 1/-1;
+}
+.card-3{
+    background:hsl(179, 100%, 13%);
+    grid-row: 1/-1;
+}
+.title{
+    font-family: 'Big Shoulders Display', cursive;
+    color:hsla(0, 0%, 100%, 0.75);
+    text-transform: uppercase;
+    margin:30px 0 0 30px;
+    font-size: x-large;
+}
+.par{
+    font-size: .5em;
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsla(0, 0%, 100%, 0.75);
+    margin:25px 0 0 30px;
+    width: 85%;
+    line-height: 2.5em;
+}
+.btn{
+    background:white;
+   text-align: center;
+   padding: 8px 10px 8px 10px;
+   text-transform: capitalize;
+    width:140px;
+    height: 30px;
+    margin:0px 0 0px 40px;
+    font-size: 20px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.btn-1{
+    color:hsl(31, 77%, 52%);
+}
+.btn-2{
+    color:hsl(184, 100%, 22%); 
+}
+.btn-3{
+    color:hsl(179, 100%, 13%);
+}
+  }

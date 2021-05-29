@@ -89,11 +89,9 @@
 
 .container .card-container{
 
-    display:grid;
-    grid-template-columns: repeat(3,260px);
-    grid-template-rows: repeat(2,260px); 
-    position:relative;
-    top: 4em;
+    display:flex;
+    flex-flow: row nowrap;
+    
 }
 
 .card-container{
@@ -126,9 +124,9 @@ justify-content: center;
      
 }
 .btn{    
-    padding: 8px 0px ;
+    padding: 10px 0px ;
     
-     margin:0px 60px  
+     margin:0px 85px  
  }
 
   }

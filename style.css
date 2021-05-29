@@ -1,7 +1,5 @@
 
 
-
-@media ( min-width: 375px ) {
     
     
     .card-container{
@@ -75,7 +73,7 @@
     .btn-3{
         color:hsl(179, 100%, 13%);
     }
-}
+
 
 
 

@@ -31,6 +31,7 @@
         margin: 50px 0 0 30px;
     
     }
+
     
     .par{
         font-size: 15px;
@@ -41,6 +42,8 @@
         line-height: 2.5em;
     }
 
+    
+
     .title{
         font-family: 'Big Shoulders Display', cursive;
         color:hsla(0, 0%, 100%, 0.75);
@@ -48,6 +51,7 @@
         text-align: center;
         font-size: xx-large;
     }
+
     
     .btn{
         position: relative;
@@ -63,6 +67,8 @@
         border-radius: 40px 40px 40px 40px;
         text-align: center;
     }
+
+  
     
     .btn-1{
         color:hsl(31, 77%, 52%);
@@ -74,6 +80,9 @@
         color:hsl(179, 100%, 13%);
     }
 
+    @media( min-width: 600px){
+        
+    }
 
 
 
@@ -95,58 +104,36 @@
 justify-content: center;   
 }
 
-.logo{
-    margin: 50px 0 0 30px;
 
-}
 
 .card-1{
-    background:hsl(31, 77%, 52%);
+    
     grid-row: 1/-1;
 
 }
 .card-2{
-    background:hsl(184, 100%, 22%); 
+    
     grid-row: 1/-1;
 }
 .card-3{
-    background:hsl(179, 100%, 13%);
+  
     grid-row: 1/-1;
 }
-.title{
-    font-family: 'Big Shoulders Display', cursive;
-    color:hsla(0, 0%, 100%, 0.75);
-    text-transform: uppercase;
+.title{     
     margin:30px 0 0 30px;
     font-size: x-large;
 }
+
 .par{
     font-size: .5em;
-    font-family: 'Lexend Deca', sans-serif;
-    color:hsla(0, 0%, 100%, 0.75);
     margin:25px 0 0 30px;
-    width: 85%;
-    line-height: 2.5em;
+    width: 85%; 
 }
-.btn{
-    background:white;
-   text-align: center;
-   padding: 8px 10px 8px 10px;
-   text-transform: capitalize;
-    width:140px;
-    height: 30px;
-    margin:0px 0 0px 40px;
-    font-size: 20px;
-    border-radius: 40px 40px 40px 40px;
-}
+.btn{    
+    padding: 8px 10px 8px 10px;
+     width:140px;
+     height: 30px;
+     margin:0px 0 0px 40px;  
+ }
 
-.btn-1{
-    color:hsl(31, 77%, 52%);
-}
-.btn-2{
-    color:hsl(184, 100%, 22%); 
-}
-.btn-3{
-    color:hsl(179, 100%, 13%);
-}
   }
